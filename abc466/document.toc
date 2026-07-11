@@ -1,0 +1,6 @@
+\beamer@sectionintoc {1}{A}{2}{0}{1}
+\beamer@sectionintoc {2}{B}{4}{0}{2}
+\beamer@sectionintoc {3}{C}{7}{0}{3}
+\beamer@sectionintoc {4}{D}{15}{0}{4}
+\beamer@sectionintoc {5}{E}{19}{0}{5}
+\beamer@sectionintoc {6}{?}{25}{0}{6}
